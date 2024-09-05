@@ -21,8 +21,9 @@
 추가적으로 궁금한 사항들이나, 설명이 더 필요한 부분을 실시간으로 문의할 수 있다.<br>
 
 # 주요 기능
+<img src="https://github.com/user-attachments/assets/e6e9c87a-281b-4431-a4bf-e1063ffbf4f8" alt="ask rag 시연영상" width="100%" />
 
-<img src="https://github.com/user-attachments/assets/4f310c20-cf99-4f29-859c-dbed775acf8c" alt="ask rag 시연영상" width="50%" />
+
 
 
 
