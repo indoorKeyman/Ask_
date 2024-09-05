@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/static/js/main.d934a108.js",
+    "static/media/human2.jpg": "/static/media/human2.42425b8d892eb61ad10d.jpg",
+    "static/media/human.jpg": "/static/media/human.b2bfb366d1bd150f46a2.jpg",
+    "static/media/human3.jpg": "/static/media/human3.9f32dec1e5545da6480e.jpg",
+    "static/media/cooporate.png": "/static/media/cooporate.72893aca878637cc7d5d.png",
+    "static/media/innovation.png": "/static/media/innovation.1463b3edec7ae964cf99.png",
+    "static/media/trust.png": "/static/media/trust.4c06477b9c32bea381c1.png",
+    "static/media/grow.png": "/static/media/grow.c3457aee00ff71e96a3d.png",
+    "index.html": "/index.html",
+    "main.d934a108.js.map": "/static/js/main.d934a108.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d934a108.js"
+  ]
+}
