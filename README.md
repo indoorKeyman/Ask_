@@ -22,10 +22,9 @@
 
 # 주요 기능
 <img src="https://github.com/user-attachments/assets/e6e9c87a-281b-4431-a4bf-e1063ffbf4f8" alt="ask rag 시연영상" width="100%" />
-
-
-
-
+<img src="https://github.com/user-attachments/assets/65d75f85-885e-4a23-8255-fa1f8fe21abd" alt="bulletin" width="100%" />
+<img src="https://github.com/user-attachments/assets/dc164bac-ed6f-4f38-ab03-8584aa90f796" alt="jobs" widht="100%"/>
+<img src="https://github.com/user-attachments/assets/29e95bf6-3d31-4e56-9d84-a8860d2673a6" alt="join" width="100%"/>
 
 # 기술 스택
 
