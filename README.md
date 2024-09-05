@@ -10,7 +10,7 @@
 
 
 # 프로젝트 소개
-## RAG를 활용한 Ask company 채용공고 사이트
+## RAG를 활용한 Ask company 채용공고 사이트 ##
 
 * **기간**: 24.06.17 - 24.07.26 <br>
 * **개발자**: indoorKeyman <br>
@@ -20,8 +20,11 @@
 회사에 대한 정보와 최신 채용공고를 챗봇을 통해 접근할 수 있고,<br>
 추가적으로 궁금한 사항들이나, 설명이 더 필요한 부분을 실시간으로 문의할 수 있다.<br>
 
-
 # 주요 기능
+
+<img src="https://github.com/user-attachments/assets/4f310c20-cf99-4f29-859c-dbed775acf8c" alt="ask rag 시연영상" width="50%" />
+
+
 
 # 기술 스택
 
