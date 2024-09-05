@@ -12,19 +12,28 @@
 # 프로젝트 소개
 ## RAG를 활용한 Ask company 채용공고 사이트 ##
 
-* **기간**: 24.06.17 - 24.07.26 <br>
+* **기간**: 24.08.08 - 24.09.06 <br>
 * **개발자**: indoorKeyman <br>
 
-채용사이트에 RAG 기능이 추가되면 사용자의 편의를 도모할 수 있을 것 같다는 아이디어에서 출발했다.<br>
-회사 채용공고 사이트를 기본적인 layout으로 가졌고, 챗봇이 추가된 형태이다.<br>
-회사에 대한 정보와 최신 채용공고를 챗봇을 통해 접근할 수 있고,<br>
-추가적으로 궁금한 사항들이나, 설명이 더 필요한 부분을 실시간으로 문의할 수 있다.<br>
+채용 사이트에 RAG(정보 검색 및 생성) 기능을 추가하면 사용자 편의성을 높일 수 있다는 아이디어에서 시작했다.<br>
+기본 레이아웃은 회사 채용공고 사이트의 형태를 유지하면서, 챗봇 기능을 추가하였다.<br>
+이를 통해 사용자는 챗봇을 통해 회사 정보와 최신 채용공고에 쉽게 접근할 수 있다.<br>
+또한, 추가적으로 궁금한 사항이나 더 자세한 설명이 필요한 부분은 실시간으로 챗봇을 통해 문의할 수 있게 된다.<br>
 
 # 주요 기능
-<img src="https://github.com/user-attachments/assets/e6e9c87a-281b-4431-a4bf-e1063ffbf4f8" alt="ask rag 시연영상" width="100%" />
-<img src="https://github.com/user-attachments/assets/65d75f85-885e-4a23-8255-fa1f8fe21abd" alt="bulletin" width="100%" />
-<img src="https://github.com/user-attachments/assets/dc164bac-ed6f-4f38-ab03-8584aa90f796" alt="jobs" widht="100%"/>
-<img src="https://github.com/user-attachments/assets/29e95bf6-3d31-4e56-9d84-a8860d2673a6" alt="join" width="100%"/>
+- RAG
+<img src="https://github.com/user-attachments/assets/e6e9c87a-281b-4431-a4bf-e1063ffbf4f8" alt="ask rag 시연영상" width="80%" />
+
+- 회원가입
+<img src="https://github.com/user-attachments/assets/29e95bf6-3d31-4e56-9d84-a8860d2673a6" alt="join" width="80%"/>
+
+- 게시판
+<img src="https://github.com/user-attachments/assets/65d75f85-885e-4a23-8255-fa1f8fe21abd" alt="bulletin" width="80%" />
+
+- 채용공고
+<img src="https://github.com/user-attachments/assets/dc164bac-ed6f-4f38-ab03-8584aa90f796" alt="jobs" widht="60%"/>
+
+
 
 # 기술 스택
 
