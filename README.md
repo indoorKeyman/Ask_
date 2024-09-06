@@ -20,11 +20,17 @@
 이를 통해 사용자는 챗봇을 통해 회사 정보와 최신 채용공고에 쉽게 접근할 수 있다.<br>
 또한, 추가적으로 궁금한 사항이나 더 자세한 설명이 필요한 부분은 실시간으로 챗봇을 통해 문의할 수 있게 된다.<br>
 
+- JPA 사용
+- JWT를 활용한 인증 방식
+- AWS EC2 서버 활용
+- Docker 사용
+- LangChain & LangSmith 사용
+
 # 주요 기능
 - RAG
 <img src="https://github.com/user-attachments/assets/e6e9c87a-281b-4431-a4bf-e1063ffbf4f8" alt="ask rag 시연영상" width="80%" />
 
-- 회원가입
+- 회원가입 & 로그인
 <img src="https://github.com/user-attachments/assets/29e95bf6-3d31-4e56-9d84-a8860d2673a6" alt="join" width="80%"/>
 
 - 게시판
@@ -77,4 +83,10 @@
 # 아키텍처 및 모델 정의서
 
 
-2024.09.05 도커 방식의 배포 완료.
+
+
+
+
+2024.09.04 도커 방식의 배포 완료.
+
+2024.09.05 createQeustion 에러 + React map 메소드로 인한 버그 수정
