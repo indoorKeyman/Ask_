@@ -36,8 +36,11 @@
 - 게시판
 <img src="https://github.com/user-attachments/assets/65d75f85-885e-4a23-8255-fa1f8fe21abd" alt="bulletin" width="80%" />
 
+- 질문등록
+<img src ="https://github.com/user-attachments/assets/3da28d7e-bb82-4a76-8572-bb418c468ebb" alt="addQuestion" width="80%"/>
+
 - 채용공고
-<img src="https://github.com/user-attachments/assets/dc164bac-ed6f-4f38-ab03-8584aa90f796" alt="jobs" widht="60%"/>
+<img src="https://github.com/user-attachments/assets/dc164bac-ed6f-4f38-ab03-8584aa90f796" alt="jobs" width="80%"/>
 
 
 
