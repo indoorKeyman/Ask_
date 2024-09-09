@@ -85,11 +85,13 @@
 
 # 아키텍처 및 모델 정의서
 
+![Frame 1](https://github.com/user-attachments/assets/69316f45-b304-44a0-b51d-ba43aa976008)
 
 
 
 
+#### Update
 
-2024.09.04 도커 방식의 배포 완료.
+> 2024.09.04 도커 방식의 배포 완료.
 
-2024.09.05 createQeustion 에러 + React map 메소드로 인한 버그 수정
+> 2024.09.05 createQeustion 에러 + React map 메소드로 인한 버그 수정
