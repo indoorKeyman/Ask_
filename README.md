@@ -95,3 +95,7 @@
 > 2024.09.04 도커 방식의 배포 완료.
 
 > 2024.09.05 createQeustion 에러 + React map 메소드로 인한 버그 수정
+
+
+#### 레퍼런스 출처
+> [테디노트](https://www.youtube.com/@teddynote)
