@@ -1,4 +1,4 @@
-# ASK
+# ASK - Recruitment site with RAG
 
 
 # 목차
