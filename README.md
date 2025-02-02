@@ -8,7 +8,7 @@
 3. [기술 스택](#기술-스택)
 4. [아키텍처 및 모델 정의서](#아키텍처-및-모델-정의서)
 
-  [Ask 2.0] url ::: https://github.com/indoorKeyman/Ask2.0
+#  [Ask 2.0] url ::: https://github.com/indoorKeyman/Ask2.0
 
 
 # 프로젝트 소개
